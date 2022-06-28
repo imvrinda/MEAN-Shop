@@ -6,10 +6,6 @@ const api = process.env.API_URL
 // middleware
 app.use(express.json())
 
-// app.get(api+'/products',(req, res) => {
-//     res.send('hello API')
-// })
-
 app.get(`${api}/products`, (req, res) => {
     const product = {
         id: 1,

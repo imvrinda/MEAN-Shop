@@ -24,7 +24,7 @@
           "test",
           "e2e"
         ],
-        "accessToken": "MDA3M2YzZDItNTI5OC00N2U0LTg2ZmYtMGFjMTkxMTU4OGQ0fHJlYWQtd3JpdGU="
+        "accessToken": "Y2YwNzdiNjAtYzY1NC00NTEyLWIzYzgtOWEwNmQ5NzBkMjc0fHJlYWQtd3JpdGU="
       }
     }
   },
@@ -49,5 +49,6 @@
     "@nrwl/angular:component": {
       "style": "scss"
     }
-  }
+  },
+  "defaultProject": "eshop"
 }
